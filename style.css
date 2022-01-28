@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(255, 400, 200);
+}
+h3{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+p{
+    font-family: monospace;
+}
+.Oratoria{
+    font-size: 25px;
+}
+.Comunicacao{
+    font-size: 23px;
+}
+.Produtividade{
+    font-size: 22px;
+}
+.Inteligencia{
+    font-size: 21px;
+}
+.Determinacao{
+    font-size: 19px;
+}
+.Foco{
+    font-size: 18px;
+}
+.Disciplina{
+    font-size: 17px;
+}
+.Oratoria2{
+    font-size: 15px;
+}
