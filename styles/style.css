@@ -1,33 +1,37 @@
 body{
-    background-color: rgb(255, 400, 200);
+    background-color: rgba(249,249,249,255);
 }
-h3{
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+menu{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0;
+    margin: 0;
+    height: 2rem;
 }
-p{
-    font-family: monospace;
+#ul-menu{
+    display: flex;
+    list-style-type: none;
 }
-.Oratoria{
-    font-size: 25px;
+li{
+    padding-left: 20px;
 }
-.Comunicacao{
-    font-size: 23px;
+div{
+    display: flex;
+    align-items: center;
 }
-.Produtividade{
-    font-size: 22px;
+#photo{
+    width: 8rem;
+    height: 8rem;
+    padding-right: 10px;
 }
-.Inteligencia{
-    font-size: 21px;
+aside{
+    padding-left: 10px;
 }
-.Determinacao{
-    font-size: 19px;
+.skills{
+    height: 50px;
+    width: 60px;
 }
-.Foco{
-    font-size: 18px;
-}
-.Disciplina{
-    font-size: 17px;
-}
-.Oratoria2{
-    font-size: 15px;
+.contato{
+    width: 64px;
 }
