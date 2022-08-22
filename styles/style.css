@@ -1,7 +1,19 @@
+@media screen and (max-width: 768px){
+    div{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .skills{
+        display: flex;
+        height: 50px;
+        width: 60px;
+    }
+}
 body{
     background-color: rgba(249,249,249,255);
 }
-menu{
+nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -29,9 +41,17 @@ aside{
     padding-left: 10px;
 }
 .skills{
-    height: 50px;
-    width: 60px;
+    height: 60px;
+    width: 70px;
+}
+#Contato{
+    display: block;
+}
+.link-contato{
+    display: flex;
+    align-items: center;
 }
 .contato{
-    width: 64px;
+    width: 50px;
+    padding-right: 0.5rem;
 }
